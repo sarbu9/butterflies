@@ -1,4 +1,3 @@
-# Butterfly Pavilion | Tally
 puts "\n"
 
 population = 0
